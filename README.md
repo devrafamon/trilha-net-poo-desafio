@@ -7,7 +7,7 @@
 
 Projeto desenvolvido em **C# utilizando .NET**, como parte de um desafio da **trilha .NET da Digital Innovation One (DIO)**.
 
-O objetivo do projeto foi aplicar na prática os conceitos fundamentais de **Programação Orientada a Objetos (POO)** utilizando C#, incluindo **abstração, herança, encapsulamento e polimorfismo**. :contentReference[oaicite:1]{index=1}
+O objetivo do projeto foi aplicar na prática os conceitos fundamentais de **Programação Orientada a Objetos (POO)** utilizando C#, incluindo **abstração, herança, encapsulamento e polimorfismo**. 
 
 ---
 
@@ -73,6 +73,3 @@ Este projeto foi desenvolvido utilizando:
 - **GitHub**
 
 ---
-
-```bash
-git clone https://github.com/devrafamon/trilha-net-poo-desafio.git
