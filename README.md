@@ -1,22 +1,78 @@
-# DIO - Trilha .NET - Programação orientada a objetos
-www.dio.me
+# 💻 Desafio POO — .NET / C#
 
-## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
+![.NET](https://img.shields.io/badge/Framework-.NET-purple?logo=dotnet)
+![C#](https://img.shields.io/badge/Language-C%23-purple?logo=csharp)
+![Paradigm](https://img.shields.io/badge/Paradigm-OOP-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## Contexto
-Você é responsável por modelar um sistema que trabalha com celulares. Para isso, foi solicitado que você faça uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos.
+Projeto desenvolvido em **C# utilizando .NET**, como parte de um desafio da **trilha .NET da Digital Innovation One (DIO)**.
 
-## Proposta
-Você precisa criar um sistema em .NET, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. 
-Você deve criar as suas classes de acordo com o diagrama abaixo:
+O objetivo do projeto foi aplicar na prática os conceitos fundamentais de **Programação Orientada a Objetos (POO)** utilizando C#, incluindo **abstração, herança, encapsulamento e polimorfismo**. :contentReference[oaicite:1]{index=1}
 
-![Diagrama classes](Imagens/diagrama.png)
+---
 
-## Regras e validações
-1. A classe **Smartphone** deve ser abstrata, não permitindo instanciar e servindo apenas como modelo.
-2. A classe **Nokia** e **Iphone** devem ser classes filhas de Smartphone.
-3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
+# 📌 Sobre o Projeto
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+Este projeto foi desenvolvido como exercício prático para consolidar conceitos essenciais de **POO em C#**.
+
+A aplicação simula um pequeno sistema orientado a objetos, no qual classes, heranças e comportamentos específicos são utilizados para representar diferentes entidades do sistema.
+
+O desafio consiste em modelar corretamente os objetos e suas relações, explorando os principais pilares da programação orientada a objetos.
+
+---
+
+# 🎯 Objetivos do Desafio
+
+Durante o desenvolvimento do projeto, o foco foi praticar conceitos fundamentais como:
+
+- 📦 **Abstração**
+- 🧬 **Herança**
+- 🔁 **Polimorfismo**
+- 🔒 **Encapsulamento**
+- 🧱 Organização de classes e responsabilidades
+
+Esses conceitos são a base para o desenvolvimento de aplicações mais complexas no ecossistema **.NET**.
+
+---
+
+# 🧠 Conceitos Aplicados
+
+## 📦 Abstração
+
+Utilização de classes base para representar entidades genéricas do sistema, definindo comportamentos comuns.
+
+---
+
+## 🧬 Herança
+
+Permite que classes especializadas reutilizem comportamentos da classe base, evitando duplicação de código.
+
+---
+
+## 🔁 Polimorfismo
+
+Diferentes objetos podem responder de maneiras distintas ao mesmo método, permitindo maior flexibilidade no código.
+
+---
+
+## 🔒 Encapsulamento
+
+Os dados e comportamentos das classes são organizados de forma controlada, protegendo o estado interno dos objetos.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando:
+
+- **C#**
+- **.NET**
+- **Programação Orientada a Objetos**
+- **Console Application**
+- **Git**
+- **GitHub**
+
+---
+
+```bash
+git clone https://github.com/devrafamon/trilha-net-poo-desafio.git
